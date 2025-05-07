@@ -311,7 +311,7 @@ em {
  .classes-schedule{
     height: 120vh;
     background: url(https://training-studio-phi.vercel.app/images/cta-bg.jpg) center/cover no-repeat;
-    margin-bottom: 2rem;
+    margin-block: 4rem 2rem;
  }
 .classes-schedule .schedule{
     color: white;
@@ -679,6 +679,10 @@ em {
  
    .section-about .btn{
     width: 60%;
+   }
+
+   .class-btn{
+    width: 50%;
    }
 
    /*  table */
